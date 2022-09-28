@@ -1,6 +1,6 @@
 # blog-backup
-This is a backup for my personal blog.
+This is a backup for my blog.
 
-This repository contains markdown files and images of articles of my blog.
+This repository contains markdown files and images of articles on my blog.
 
-Blog url is [caltong.com](https://caltong.com)
+The blog URL is [caltong.com](https://caltong.com)
