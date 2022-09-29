@@ -12,7 +12,7 @@ First, let's say we have 3 routers named router0, router1 and router2. And each 
 - Router1's public IP is 1.0.0.1, the gateway is 192.168.1.1 and the subnet is 192.168.1.1/24.
 - Router2's public IP is 1.0.0.2, the gateway is 192.168.2.1 and the subnet is 192.168.2.1/24.
 
-In this guide, not all routers need to have public IP. But do need one for the server. For example, if router0 has a public IP, and others don't. Then, router0 will be set as an OpenVPN server, others are OpenVPN clients.
+In this guide, not all routers need to have public IPs. But do need one for the server. For example, if router0 has a public IP, and others don't. Then, router0 will be set as an OpenVPN server, others are OpenVPN clients.
 
 ## DDNS(optional)
 
@@ -20,7 +20,7 @@ Unfortunately, some ISP don't provide static public IP freely or even don't prov
 
 1. If you have a static public IP, you don't need this part.
 2. If you have a dynamic public IP, you need to keep reading this part.
-3. If you have no public IP, please talk to your ISP or use frp/ngrok to get your service exposed to public. And this guide may not fit your situation.
+3. If you have no public IP, please talk to your ISP or use frp/ngrok to get your service exposed to the public. And this guide may not fit your situation.
 
 DDNS is Dynamic DNS, which can dynamically update DNS records without the need for human interaction. If your public IP changes, the DNS of your domain keeps updating automatically.
 
