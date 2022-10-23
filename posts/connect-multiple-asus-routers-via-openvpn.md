@@ -75,6 +75,6 @@ It's easy on client's side. Just go to VPN page choose **VPN Client** -> **Add p
 
 ## In the end
 
-Everything is done, enjoy your custum sd-wan.
+Everything is done, enjoy your custom sd-wan.
 
 If you encounter any problems following this tutorial, feel free to leave a comment.
